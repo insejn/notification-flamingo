@@ -4,6 +4,7 @@
 node_modules/
 assets/dist/
 vendor/acf
+package-lock.json
 
 ### Windows ###
 # Windows image file caches
